@@ -59,7 +59,6 @@ export class ContactForm extends Component {
               className={css.contactForm__input}
             />
           </div>
-
           <button type="submit" className={css.contactForm__btn}>
             Add contact
           </button>
